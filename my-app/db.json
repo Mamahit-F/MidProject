@@ -5,7 +5,7 @@
     "bio": "Saya seorang developer yang senang membangun tampilan web yang modern dan responsif menggunakan React dan Tailwind CSS.",
     "email": "faimel@example.com",
     "phone": "+62 812 3456 7890",
-    "picture": "pic1.jpg"
+    "picture": "image.png"
   },
   "skills": [
     { "id": 1, "name": "React" },

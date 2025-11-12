@@ -8,7 +8,6 @@ function App() {
     <div className="min-h-screen flex flex-col bg-gray-50">
       <Header />
       <Home />
-      <Pic />
       <Footer />
     </div>
   );
