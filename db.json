@@ -1,0 +1,36 @@
+{
+  "profile": {
+    "image": "pic.jpg",
+    "id": 1,
+    "name": "Christian",
+    "title": "Mahasiswa / Frontend Developer",
+    "location": "Indonesia",
+    "summary": "Mahasiswa yang fokus pada pengembangan frontend menggunakan React, Vite, dan TailwindCSS. Memiliki ketertarikan pada UI/UX dan pembuatan website modern.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "TailwindCSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Vite",
+      "Git"
+    ]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "role": "Frontend Intern",
+      "company": "Startup Contoh",
+      "year": "2024",
+      "desc": "Membangun komponen UI, integrasi REST API, dan melakukan optimasi performa website."
+    },
+    {
+      "id": 2,
+      "role": "UI Designer Freelance",
+      "company": "Project Mandiri",
+      "year": "2023",
+      "desc": "Merancang tampilan antarmuka sederhana dengan prinsip UI/UX dan membuat prototipe figma."
+    }
+  ]
+}
