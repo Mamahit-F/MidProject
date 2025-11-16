@@ -34,14 +34,14 @@
       "title": "Simple CRUD App",
       "description": "Aplikasi CRUD untuk mengelola data user dengan JSON-server sebagai backend.",
       "tech": ["React", "JSON-Server", "Hooks"],
-      "link": "#"
+      "link": "https://otakudesu.best/"
     },
     {
       "id": 3,
       "title": "Landing Page Modern",
       "description": "Landing page responsive dengan animasi halus dan tampilan clean.",
       "tech": ["Tailwind", "JavaScript"],
-      "link": "#"
+      "link": "https://oploverz.mom"
     }
   ],
 
@@ -58,7 +58,7 @@
       "year": "2023",
       "role": "Freelance Web Developer",
       "company": "Client Project",
-      "details": "Membuat landing page responsive untuk UMKM dan memperbaiki SEO website."
+      "details": "Membuat landing page responsive untuk saya sendiri."
     }
   ],
 
